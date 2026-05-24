@@ -26,7 +26,7 @@ Just pure mahjong energy 🀄
 
 **⚠️ Small warning**
 The AI bot is actually kinda cracked 🤖🔥
-I tested it for 13 games and only won once 😭
+I tested it for 13 rounds and only won once 😭
 So if you lose badly… don’t worry, me too 🤝
 Good luck 🍀
 

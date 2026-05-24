@@ -37,7 +37,7 @@ The current structure still leaves room for:
 * probably more suffering for me as the developer 💀
 
 🔗 GitHub
-[your github link here]
+https://github.com/MaxD0110/Sichuan-Mahjong/
 
 🫡 Final final words
 “You only live once. Have fun and keep your chin up.” ✨ — Maxwell Deng
